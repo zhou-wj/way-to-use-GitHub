@@ -7,3 +7,18 @@
 
 - 登陆服务器
 > ssh username@ip
+
+- 显示当前目录
+> pwd
+
+- 在当前目录下创建一个空文件夹
+> mkdir filename  // make directory
+
+- 进入指定目录
+> cd pathname  // choose directory
+//cd ../ (返回上一级目录)
+
+- 在当前目录中创建Git仓库（会生成一个.git隐藏文件夹）
+> git init
+
+
