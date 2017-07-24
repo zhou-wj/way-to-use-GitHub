@@ -6,7 +6,7 @@
 # Command
 
 - ssh username@ip
-> 登陆服务器
+> 登陆服务器（咱的服务器用的是Linux，于是就在命令行中用Linux的命令操作服务器工作就行）
 
 - pwd
 > 显示当前目录
