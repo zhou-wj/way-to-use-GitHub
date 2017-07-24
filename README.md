@@ -5,21 +5,21 @@
 
 # Command
 
-- 登陆服务器
-> ssh username@ip
+- ssh username@ip
+> 登陆服务器
 
-- 显示当前目录
-> pwd
+- pwd
+> 显示当前目录
 
-- 在当前目录下创建一个空文件夹
-> mkdir filename  // make directory
+- mkdir filename  // make directory
+> 在当前目录下创建一个空文件夹
 
-- 进入指定目录
-> cd pathname  // choose directory
+- cd pathname  // choose directory
+> 进入指定目录
 
 > // cd ../ (返回上一级目录)
 
-- 在当前目录中创建Git仓库（会生成一个.git隐藏文件夹）
-> git init
+- git init
+> 在当前目录中创建Git仓库（会生成一个.git隐藏文件夹）
 
 
