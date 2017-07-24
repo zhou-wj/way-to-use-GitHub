@@ -14,7 +14,7 @@
 - mkdir filename  // make directory
 > 在当前目录下创建一个空文件夹
 
-- cd pathname  // choose directory
+- cd pathname  // change directory
 > 进入指定目录
 
 > // cd ../ (返回上一级目录)
