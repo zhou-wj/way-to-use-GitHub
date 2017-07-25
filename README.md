@@ -8,6 +8,9 @@
 - ssh username@host_ip_or_name
 > 登陆服务器（咱的服务器用的是Linux，于是就在命令行中用Linux的命令操作服务器工作就行）
 
+- exit
+> 登出服务器
+
 - pwd  // print working directory
 > 显示当前目录
 
