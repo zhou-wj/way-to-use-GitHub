@@ -32,10 +32,16 @@
 - git remote
 > 不带参数，列出已经存在的远程分支
 
-- git remote add origin [url]
+- git remote add origin [url] (username@host_ip_or_name:filepath/filename.git) [1](http://blog.csdn.net/w13770269691/article/details/38704941) [2](http://blog.csdn.net/u010412719/article/details/72860193) 
 > 创建名为origin的remote分支，链接指向url
+
+- git remote set-url origin [url]
+> Update the URL
 
 - git remote remove [name]
 > 删除指定的remote分支
+
+- git push (-u) origin master
+> 提交本地分支到远程仓库( on your first push, you may want to add the -u parameter (i.e. git push -u origin master) if you want master in that repository to be your default upstream for your master)
 
 
